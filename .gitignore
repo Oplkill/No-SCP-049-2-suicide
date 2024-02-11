@@ -1,0 +1,8 @@
+bin/
+obj/
+packages/
+No-SCP-049-2-suicide/bin/
+No-SCP-049-2-suicide/obj/
+.idea/
+.vs/
+*.sln.DotSettings.user
