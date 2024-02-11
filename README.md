@@ -1,4 +1,4 @@
-# No-SCP-049-2-suicide
+# No-SCP-049-2-suicide EXILED-plugin
 Prevent to die SCP-049-2 by tesla or fall to void, but it will not give opportunity to ignore tesla or jump into void.
 
 # Tesla 
